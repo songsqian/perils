@@ -12,3 +12,7 @@ This folder includes simulation R code `PerilSims.R` and data files:
 
   3.  `InvertbratesGeomeansUPT6mo.csv` – macroinvertebrates data; the column of BCD is used in the simulation
   4. `Macroinv.tolerance.csv` – percent tolerant taxa
+
+- Draft manuscript
+  
+  5. PerilsHT3.pdf
