@@ -2,7 +2,7 @@
 ## Hidden Multiple Comparison Trap Simulations
 This repository includes R code used for the manuscript "The multiple-comparison trap and the Raven's paradox -- Perils of using null hypothesis testing" currently under review.
 
-This folder includes simulation R code `PerilSims.R` and data files:
+This folder includes the draft manuscript `PerilsHT3.pdf`, simulation R code `PerilSims.R`, and data files:
 
 - Data from Baker and King (2010)
 
@@ -13,6 +13,3 @@ This folder includes simulation R code `PerilSims.R` and data files:
   3.  `invertbratesGeomeansUPT6mo.csv` – macroinvertebrates data; the column of BCD is used in the simulation
   4. `macroinv.tolerance.csv` – percent tolerant taxa
 
-- Draft manuscript
-  
-  5. `PerilsHT3.pdf`
