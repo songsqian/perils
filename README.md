@@ -8,5 +8,5 @@ This folder includes simulation R code `PerilSims.R` and data files:
   1. `Glades.env.txt` – TP concentration, row names represent sites;
   2. `Glades.taxa.txt` – Macroinvertebrate counts, each column represent a taxon, row names represent sites;
 - Data from Qian et al. (2003)
-3.  `InvertbratesGeomeansUPT6mo.csv` – macroinvertebrates data; the column of BCD is used in the simulation
-4. `Macroinv.tolerance.csv` – percent tolerant taxa
+  3.  `InvertbratesGeomeansUPT6mo.csv` – macroinvertebrates data; the column of BCD is used in the simulation
+  4. `Macroinv.tolerance.csv` – percent tolerant taxa
