@@ -1,6 +1,6 @@
 # perils
 ## Hidden Multiple Comparison Trap Simulations
-This repository includes R code used for the manuscript "The multiple-comparison trap and the Raven's paradox -- Perils of using null hypothesis testing" currently under review.
+This repository includes R code used for the manuscript "The multiple-comparison trap and the Raven's paradox -- Perils of using null hypothesis testing in environmental assessment" currently under review.
 
 This folder includes the draft manuscript `PerilsHT3.pdf`, simulation R code `PerilSims.R`, and data files:
 
